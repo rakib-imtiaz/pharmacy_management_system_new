@@ -8,6 +8,7 @@
     </div>
     <footer class="bg-teal-600 text-white mt-auto">
         <div class="container mx-auto px-6 py-8">
+            
             <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
                 <!-- Company Info -->
                 <div class="animate__animated animate__fadeIn">
